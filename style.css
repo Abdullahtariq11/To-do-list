@@ -1,0 +1,39 @@
+body {
+    width: 50%;
+    margin: 0 auto;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: brown;
+}
+
+.container{
+    width: 360;
+}
+
+#inputField{
+    width:400px;
+    height: 47px;
+    border: 1px solid black;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+#addToDo{
+    height:50px;
+    width:50px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+}
+
+.toDo{
+    margin-top: 25px;
+}
+
+.paragraph-styling{
+    margin:0;
+    cursor:pointer;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+     
+}
